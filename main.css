@@ -1,0 +1,198 @@
+body{
+	background-color:#e9ebee;
+}
+	#header {
+    background-color: #3b5994;
+    color: white;
+	padding:0 80px 0 80px;
+}
+.logo-img{
+	height:28px;
+	margin-top:-6px;
+	margin-left:30px;
+}
+.fb-logo
+{
+	position:relative;
+	margin-top:-8px;
+	margin-left:25px;
+}
+#search-box
+{
+	border:1px solid #3b5998;
+	border-radius:3px;
+	height:29px;
+	width:400px !important;
+	margin:2px 0 0 -20px;
+}
+.search-button
+{
+	background-color: #e9ebee;
+	height:27px;
+	border:none;
+	margin-top:2px;
+	margin-left:-10px;
+}
+.profile-pic
+{
+	height:30px;
+	border-radius:4px;
+	margin-top:-5px;
+}
+.white-text {
+  color: white !important;
+  
+}
+.sidebar-img
+{
+	height:22px;
+	margin-left:5px;
+	margin-right:7px;
+}
+.sidebar-img2
+{
+	height:22px;
+	margin-left:5px;
+	margin-right:7px;
+	border-radius:40%;
+}
+.name
+{
+	color:black;
+	padding:0 5px !important;
+}
+.text-color{
+	color:#4682B4;
+}
+.body-color{
+	background-color:white;
+}
+	
+#like1
+{
+padding-left:10px;
+}	
+	
+
+
+
+}
+#wrapper {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+#main{
+	height: 750px; 
+	
+}
+
+#menu,
+
+#sidebar {
+  height: 750px; 
+ background-color: #e9ebee;
+}
+
+ .glyphicon {
+    font-size: 15px;
+}
+ .pull-right {
+    float: right!important;
+}
+ 
+
+.list-heading {
+    padding: 20px 15px 0 15px;
+}
+ 
+.panel-body .glyphicon {
+    margin-left: 10px;
+    margin-right: 4px;
+}
+.text-post {
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+.image-post {
+    margin-bottom: 15px;
+}
+#main {
+    overflow: auto;
+}
+#main::-webkit-scrollbar {
+    display: none;
+}
+#badge-2
+{
+ padding-left:40px;
+ background-color:#e9ebee; 
+ color:gray;
+ }
+ #badge-1
+{
+ padding-left:6px;
+ background-color:#e9ebee; 
+ color:gray;
+ }
+  #badge-3
+{
+ padding-left:20px;
+ background-color:#e9ebee; 
+ color:gray;
+ }
+ 
+ .cmment
+ {
+	 margin: 0;
+ }
+ .mid
+ {
+ padding-left:10px;}
+ 
+ .right
+ {
+	 padding-left:30px;
+ }
+ .input
+ {
+	 border:none;
+ }
+ .chnge-1
+ {
+	 padding-left:20px;
+ }
+ .chnge-2
+ {
+	 padding-left:50px;
+ }
+ 
+ .side-4
+ {
+	  padding-left:10px;
+ }
+ .side-button
+ {
+	 float:right;
+ }
+ .msg
+ {border-radius:20px;
+ }
+.img
+{
+border-radius:60px;
+}	
+.class
+{
+	margin-right:0px;
+}
+
+.time
+{
+	font-size:12px;
+	margin-left:35px;
+	margin-top:-8px;
+}
+.box
+{
+	width:570px;
+}
