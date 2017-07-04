@@ -67,27 +67,21 @@ body{
 .body-color{
 	background-color:white;
 }
-i.height
-{
-font-size:1em;
-
-}
 #wrapper {
   margin-top: 16px;
   margin-bottom: 16px;
 }
 #main{
 	height: 750px; 
-	
 }
-
 #menu,
-
 #sidebar {
   height: 750px; 
  background-color: #e9ebee;
 }
-
+.icons{
+	font-size:5px;
+}
  .glyphicon {
     font-size: 15px;
 }
@@ -119,19 +113,19 @@ font-size:1em;
 }
 #badge-2
 {
- padding-left:40px;
+ margin-left:40px;
  background-color:#e9ebee; 
  color:gray;
  }
  #badge-1
 {
- padding-left:6px;
+ margin-left:6px;
  background-color:#e9ebee; 
  color:gray;
  }
   #badge-3
 {
- padding-left:20px;
+ margin-left:20px;
  background-color:#e9ebee; 
  color:gray;
  }
@@ -142,11 +136,12 @@ font-size:1em;
  }
  .mid
  {
- padding-left:10px;}
+    margin-left:30px;
+ }
  
  .right
  {
-	 padding-left:30px;
+	 margin-left:30px;
  }
  .input
  {
@@ -181,13 +176,23 @@ border-radius:60px;
 	margin-right:0px;
 }
 
-.time
+.timebar
 {
-	font-size:12px;
 	margin-left:35px;
-	margin-top:-8px;
+	margin-top:-10px;
 }
-.box
+
+.notify
 {
-	width:570px;
+	
+	position:relative;
+	margin-left:-22px;
+	border-radius:20%;
+	background-color:red;
+	color:white;
+	
+}
+.color{
+	font-size:12px;
+	color:gray;
 }
