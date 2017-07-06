@@ -80,8 +80,11 @@ body{
  background-color: #e9ebee;
 }
 .icons{
-	font-size:16px;
+	font-size:11px !important;
 	
+}
+.name1{
+	font-size:15px !important;
 }
  .glyphicon {
     font-size: 15px;
